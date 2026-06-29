@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Los 7 hábitos de la gente altamente efectiva",
+            "author": "Stephen R. Covey",
+            "year": 1989
+        },
+        {
+            "id": 3,
+            "title": "Una breve historia del tiempo",
+            "author": "Stephen Hawking",
+            "year": 1989
+        }
+    ]
+}
